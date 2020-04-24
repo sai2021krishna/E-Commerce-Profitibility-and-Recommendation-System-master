@@ -1,0 +1,7 @@
+		Innovate Yourself		
+		-----------------------		
+2020/4/19			17:48
+Product name	|Price
+milk			27
+butter			50
+Payable Amount:	107.0
